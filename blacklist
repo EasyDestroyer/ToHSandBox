@@ -1,4 +1,3 @@
 local blacklist = {
-    1234567890,  -- Example UserId
-    9876543210,  -- Add more UserIds as needed
+    5243379537
 }
